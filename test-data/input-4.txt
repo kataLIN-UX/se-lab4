@@ -1,3 +1,3 @@
-GT4500,0,0,2,0
+GT4500,0,0,2,0 #will it shoot both from 2ndary
 TORPEDO,SINGLE
 TORPEDO,SINGLE
